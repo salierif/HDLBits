@@ -12,3 +12,7 @@ test64
 test65 
 test68 
 test69
+test70 
+test74 
+test75
+test86
